@@ -8,7 +8,7 @@ Assignment I
 09-07-2014
 SearchRomania.c
 
-Implements DFS and DFS algorithms on the 
+Implements DFS and BFS algorithms on the 
 	Romania map to find routes between
 	various cities.
 
