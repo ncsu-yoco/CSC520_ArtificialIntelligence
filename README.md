@@ -5,14 +5,8 @@
 1. [SearchRomania.c](https://github.com/ncsu-yoco/CSC520_ArtificialIntelligence/blob/master/SearchRomania.c)  
 		Implements DFS and DFS algorithms on the [Romania map](https://github.com/ncsu-yoco/CSC520_ArtificialIntelligence/blob/master/SearchRomania.png) to find routes between various cities.
 
-This *italic* **italic** can be used to _bold_ __bold__ text 
+2. [SearchUSA.c](https://github.com/ncsu-yoco/CSC520_ArtificialIntelligence/blob/master/SearchUSA.c)  
+		Implements A*, Greedy and Uniform Cost search algorithms on the [USA map](https://github.com/ncsu-yoco/CSC520_ArtificialIntelligence/blob/master/SearchUSA.c) to find routes between various cities.
 
-1. Nested List
-	1. Indententation for item
-
-Inline `format` and multiple line
-```
-x = x + 1
-```
-
-[Here goes the link](google.com) 
+3. [diabeticsSemanticNetwork.cpp](https://github.com/ncsu-yoco/CSC520_ArtificialIntelligence/blob/master/diabeticsSemanticNetwork.cpp)  
+		Implements prolog like mechanism for given [diabetic network](https://github.com/ncsu-yoco/CSC520_ArtificialIntelligence/blob/master/diabeticsSemanticNetwork.png).
